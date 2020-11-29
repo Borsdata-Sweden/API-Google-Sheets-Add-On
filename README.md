@@ -3,14 +3,14 @@ Google is in approval process of Google Sheet Addon.
 
 # Google Sheets Add-On
 
-Börsdata Google Sheets Addon  is a plugin/addin you install to your Google Sheets account.  
-When it's installed you get access to serveral new Excel functions to directly call the Börsdata API.  
+Börsdata Google Sheets Add-on is a plugin you install to your Google Sheets account.  
+When the Add-on is installed you get access to several new functions to directly call the Börsdata API.  
 
 You have access to all data from Börsdata API like Stockprices, reportdata and Kpis.  
-To use the Google Sheets Addon   you need to be a PRO Börsdata member and having an API Key.  
+To use the Google Sheets Add-on you need to be a PRO Börsdata member and having an API Key.  
 
-Börsdata Google Sheets Addon  are an extension to Börsdata API.  
-In the background the Addon is calling the API to get data and formats the data to fit into Google Sheets.  
+Börsdata Google Sheets Add-on  are an extension to Börsdata API.  
+In the background the Add-on is calling the API to get data and formats the data to fit into Google Sheets.  
 
 It has the same limitations, like number of requests, as the normal API, so if you have many functions it can take some time to load all data.  
 We are happy for all feedback on how to improve the API and the Google Sheets Addon.  
@@ -29,13 +29,11 @@ API Key is only available to 12/24 month PRO members.
 If you dont have an API KEY you need to Apply for it on Börsdata MyPage.  
 [Go to Api Info](https://borsdata.se/en/info/api/api_page)
 
-
 ## Functions
-[Go to Function page](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Functions
-)
+[Go to Function page](https://github.com/Borsdata-Sweden/API-Google-Sheets-Add-On/wiki)
 
-## Plugin Buttons
-[Go to button page](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Excel-Buttons)
+## Settings menu
+[Go to button page](https://github.com/Borsdata-Sweden/API-Google-Sheets-Add-On/wiki/settings)
 
 ## Instruments (InstId)
 An Instrument at Börsdata is normaly a company or index.   
@@ -58,6 +56,8 @@ https://github.com/Borsdata-Sweden/API/wiki/KPI-Screener
 You can select if you like English or Swedish translation.  
 You find checkbox in [Settings panel](https://github.com/Borsdata-Sweden/ExcelPlugin/wiki/Excel-Buttons).
 
+# Known issues
+[Go to page](https://github.com/Borsdata-Sweden/API-Google-Sheets-Add-On/wiki/Known-Issues)
 
 ## Issues Tracking
 We use GitHub's Issues tracker for our project. Feel free to create bug reports and features requests. Make sure to read the documentation before asking questions - this will avoid repeated questions, leaving us more time for developing the library.
