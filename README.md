@@ -1,3 +1,6 @@
+# This is work in progress
+Google is in approval process of Google Sheet Addon.  
+
 # Google Sheets Add-On
 
 Börsdata Google Sheets Addon  is a plugin/addin you install to your Google Sheets account.  
