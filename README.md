@@ -15,6 +15,8 @@ In the background the Add-on is calling the API to get data and formats the data
 It has the same limitations, like number of requests, as the normal API, so if you have many functions it can take some time to load all data.  
 We are happy for all feedback on how to improve the API and the Google Sheets Addon.  
 
+[Also read the Wiki for more details](https://github.com/Borsdata-Sweden/API-Google-Sheets-Add-On/wiki)
+
 ## Installation
 ...
 
