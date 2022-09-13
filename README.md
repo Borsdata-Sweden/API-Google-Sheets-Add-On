@@ -14,6 +14,10 @@ We are happy for all feedback on how to improve the API and the Google Sheets Ad
 
 [Also read the Wiki for more details](https://github.com/Borsdata-Sweden/API-Google-Sheets-Add-On/wiki)
 
+
+## V12 Global data
+- Added Global instruments. Stockprices, reports and Kpis.   
+
 ## Installation
 [Read more](https://github.com/Borsdata-Sweden/API-Google-Sheets-Add-On/wiki/Get-Started)
 
@@ -68,6 +72,8 @@ Make sure to read the documentation before asking questions - this will avoid re
 ### 2021-01-10 V1  
 - Release
 
+### 2022-09-13 V12  
+- Add Global Data
 
 
 ## Disclaimer
