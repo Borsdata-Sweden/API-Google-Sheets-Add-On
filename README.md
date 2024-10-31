@@ -75,6 +75,25 @@ Make sure to read the documentation before asking questions - this will avoid re
 ### 2022-09-13 V12  
 - Add Global Data
 
+### 2023-09-06
+- Instrument description 
+- Report calendar 
+- Dividend calendar 
+- Holdings Insider 
+- Holdings Shorts 
+- Holdings Buyback
+
+### 2024-02-14 (v10)
+- Added two new values to BD_Instruments()
+1. StockPriceCurrency
+2. ReportCurrency
+
+3. Added Original flag to report calls.
+  This return reportdata in original currency.   
+- BD_REPORT_YEAR
+- BD_REPORT_R12
+- BD_REPORT_QUARTER
+- BD_KPI_SUMMARY
 
 ## Disclaimer
 Börsdata and the information contained herein is not intended to be a source of advice or credit analysis with respect to the material presented, and the information and/or documents contained in this website do not constitute investment advice.  
