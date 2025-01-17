@@ -28,7 +28,6 @@ Because the APIKEY is personal and you agreed not to share the API data with oth
 
 
 ## API Key
-API Key is only available to 12/24 month PRO members.  
 If you dont have an API KEY you need to Apply for it on Börsdata MyPage.  
 [Go to Api Info](https://borsdata.se/en/info/api/api_page)
 
